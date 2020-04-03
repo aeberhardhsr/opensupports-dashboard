@@ -18,10 +18,10 @@
                 <div class="block color-toz">
                 <div>
                 <?php
-                        $servername = "10.10.11.10";
-                        $username = "root";
-                        $password = "jetson";
-                        $dbname = "helpdesk";
+                        $servername = "localhost";
+                        $username = "user";
+                        $password = "password";
+                        $dbname = "dbname";
                         
                         // Create connection
                         $conn = new mysqli($servername, $username, $password, $dbname);
@@ -50,10 +50,10 @@
                 <div class="block color-otb">
 		<div>
                 <?php
-                        $servername = "10.10.11.10";
-                        $username = "root";
-                        $password = "jetson";
-                        $dbname = "helpdesk";
+                        $servername = "localhost";
+                        $username = "user";
+                        $password = "password";
+                        $dbname = "dbname";
                         
                         // Create connection
                         $conn = new mysqli($servername, $username, $password, $dbname);
@@ -79,10 +79,10 @@
                 <div class="block color-ota">
 		<div>
                 <?php
-                        $servername = "10.10.11.10";
-                        $username = "root";
-                        $password = "jetson";
-                        $dbname = "helpdesk";
+                        $servername = "localhost";
+                        $username = "user";
+                        $password = "password";
+                        $dbname = "dbname";
                         
                         // Create connection
                         $conn = new mysqli($servername, $username, $password, $dbname);
@@ -108,10 +108,10 @@
                 <div class="block color-dw">
 		<div>
                 <?php
-                        $servername = "10.10.11.10";
-                        $username = "root";
-                        $password = "jetson";
-                        $dbname = "helpdesk";
+                        $servername = "localhost";
+                        $username = "user";
+                        $password = "password";
+                        $dbname = "dbname";
                         
                         // Create connection
                         $conn = new mysqli($servername, $username, $password, $dbname);
@@ -139,10 +139,10 @@
                 <div class="block color-dm">
                 <div>
                 <?php
-                        $servername = "10.10.11.10";
-                        $username = "root";
-                        $password = "jetson";
-                        $dbname = "helpdesk";
+                        $servername = "localhost";
+                        $username = "user";
+                        $password = "password";
+                        $dbname = "dbname";
                         
                         // Create connection
                         $conn = new mysqli($servername, $username, $password, $dbname);
@@ -168,10 +168,10 @@
         <div id="ticket-view">
            <div id="ticket-table">
             <?php
-            $servername = "10.10.11.10";
-            $username = "root";
-            $password = "jetson";
-            $dbname = "helpdesk";
+            $servername = "localhost";
+            $username = "user";
+            $password = "password";
+            $dbname = "dbname";
             
             
             // Create connection
